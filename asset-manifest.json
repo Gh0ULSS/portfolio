@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-revamped/static/css/main.87ea7bc5.css",
+    "main.js": "/portfolio-revamped/static/js/main.444e509c.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio-revamped/static/js/787.7da95b79.chunk.js",
+    "static/media/Web-Development.PNG": "/portfolio-revamped/static/media/Web-Development.854e4a272fbbf3d98beb.PNG",
+    "static/media/Resume-targeted-3.pdf": "/portfolio-revamped/static/media/Resume-targeted-3.3f70e73b18e5fd8a23ef.pdf",
+    "static/media/ASP-NET.PNG": "/portfolio-revamped/static/media/ASP-NET.9bee94882f1d6952366e.PNG",
+    "static/media/Secure-File-System.PNG": "/portfolio-revamped/static/media/Secure-File-System.8ed4276f33b58076d694.PNG",
+    "static/media/software-methodology.png": "/portfolio-revamped/static/media/software-methodology.413c8ff961b0fd04a878.png",
+    "static/media/Object-Oriented-Programming.PNG": "/portfolio-revamped/static/media/Object-Oriented-Programming.b0ca560650e87a073739.PNG",
+    "index.html": "/portfolio-revamped/index.html",
+    "main.87ea7bc5.css.map": "/portfolio-revamped/static/css/main.87ea7bc5.css.map",
+    "main.444e509c.js.map": "/portfolio-revamped/static/js/main.444e509c.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio-revamped/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87ea7bc5.css",
+    "static/js/main.444e509c.js"
+  ]
+}
