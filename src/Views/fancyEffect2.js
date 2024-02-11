@@ -27,7 +27,7 @@ const FancyEffect2 = ({ initialText, typingCharacters }) => {
       }
 
       iteration += 1 / 3;
-    }, 12);
+    }, 65);
   };
 
   useEffect(() => {
@@ -36,7 +36,7 @@ const FancyEffect2 = ({ initialText, typingCharacters }) => {
   }, []);
 
   return (
-    <h1 onMouseEnter={handleMouse}>
+    <h1>
       {text}
     </h1>
   );
