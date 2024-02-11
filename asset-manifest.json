@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.87ea7bc5.css",
-    "main.js": "/portfolio/static/js/main.4f571296.js",
+    "main.js": "/portfolio/static/js/main.d37b463f.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/Web-Development.PNG": "/portfolio/static/media/Web-Development.854e4a272fbbf3d98beb.PNG",
     "static/media/Resume-targeted-3.pdf": "/portfolio/static/media/Resume-targeted-3.3f70e73b18e5fd8a23ef.pdf",
@@ -11,11 +11,11 @@
     "static/media/Object-Oriented-Programming.PNG": "/portfolio/static/media/Object-Oriented-Programming.b0ca560650e87a073739.PNG",
     "index.html": "/portfolio/index.html",
     "main.87ea7bc5.css.map": "/portfolio/static/css/main.87ea7bc5.css.map",
-    "main.4f571296.js.map": "/portfolio/static/js/main.4f571296.js.map",
+    "main.d37b463f.js.map": "/portfolio/static/js/main.d37b463f.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87ea7bc5.css",
-    "static/js/main.4f571296.js"
+    "static/js/main.d37b463f.js"
   ]
 }
