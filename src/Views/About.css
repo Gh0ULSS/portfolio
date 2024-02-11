@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani');
+
+#about
+{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+
+
+}
+
+.heading
+{
+  color: #896790;
+  font-family: Rajdhani;
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.text
+{
+  color: purple;
+  font-size: 30px;
+  font-family: Rajdhani;
+  font-weight: 600;
+  padding: 10px 200px 20px;
+}

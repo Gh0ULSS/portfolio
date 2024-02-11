@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani');
+
+.resume-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    color: #fff;
+    margin-top: 350px;
+  }
+
+  .head
+  {
+    font-family: Rajdhani;
+    color: #896790;
+    font-weight: bolder;
+    font-size: 50px;
+  }
+  
+  .resume-text {
+    font-size: 3rem;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  
+  .pdf-viewer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    overflow: hidden;
+    z-index: 1;
+  }
+  
+  .pdf-viewer a {
+    display: inline-block;
+    max-width: 100%;
+    max-height: 100%;
+    overflow: hidden;
+  }
+  
+  .resume-download-btn {
+    font-family: var(--font-family);
+    text-decoration: none;
+    padding: 10px 20px;
+    border: none;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-size: 24px;
+    cursor: pointer;
+    color: #fff;
+    background-color: #af5def;
+    transition: background-color 0.3s ease;
+    display: inline-block;
+    height: 30px;
+    margin: 30px 20px 20px 20px;
+  }
+  
+  .resume-download-btn:hover {
+    background-color: #9628ea;
+    transform: scale(1.1);
+    text-decoration: none;
+    transition: ease-in-out 0.3s;
+    cursor: pointer;
+  }
+  
+  @media (max-width: 1500px) {
+    .resume-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      margin-top: 250px !important;
+    }
+  
+    .resume-text {
+      font-size: 32px;
+    }
+  
+    .pdf-viewer {
+      display: flex;
+      justify-content: center;
+      margin-top: 10px;
+    }
+  
+    .resume-download-btn:hover {
+      background-color: #9628ea;
+      transform: scale(1.1);
+      transition: ease-in-out 0.3s;
+      cursor: pointer;
+    }
+  }
+  
