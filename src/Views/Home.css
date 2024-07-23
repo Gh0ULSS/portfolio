@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Wallpoet:wght@400');
+
+/*@import url('https://fonts.googleapis.com/css?family=Silkscreen:wght@400'); */
+
+#main
+{
+   height: 100%;
+   width: 100%;
+   background-color: var(--bg-color);
+   display: flex;
+   flex-direction: column;
+}
+
+.content
+{
+   color: red;
+   font-family: Wallpoet;
+   font-size: 40px;
+   font-weight: bolder;
+   padding: 200px 60px 200px;
+   width: 600px;
+}
+
+.fancy-text
+{
+   font-size: 50px;
+   font-weight: bolder;
+}
+
+@media (max-width: 500px) {
+   .content
+   {
+      color: red;
+      font-family: Wallpoet;
+      font-size: 20px;
+      font-weight: bolder;
+      padding: 200px 60px 200px;
+      width: 600px;
+   }
+   
+   .fancy-text
+   {
+      font-size: 30px;
+      font-weight: bolder;
+   }
+ }

@@ -1,0 +1,19 @@
+#reachout
+{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+h2
+{
+    color: #896790;    
+    font-family: var(--font-family);
+}
+
+.reacticon
+{
+    width: 100px;
+    height: 100px;
+    padding-right: 20px;
+}
