@@ -1,0 +1,20 @@
+nav {
+    font-family: var(--font-family);
+    background-color: black;
+    z-index: 1;
+}
+
+li
+{
+    display: inline-block;
+    flex-direction: column;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color: green;
+}
+
+li:hover
+{
+  color: red;
+}

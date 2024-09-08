@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani');
+
+.exp {
+    margin-top: 200px;
+    font-family: Rajdhani;
+    color: #896790;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.vertical-timeline-element-time{
+    font-family: Rajdhani;
+    font-weight: bolder;
+    font-size: 16px;
+    color: darkmagenta;
+    height: 2px;
+  }
